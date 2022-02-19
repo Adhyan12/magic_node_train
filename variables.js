@@ -18,5 +18,5 @@ like this
 // var text = 'ho
 
 const text  = 'hi'
-var text ='hihihi'
+
 console.log(text)
